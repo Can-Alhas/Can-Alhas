@@ -7,7 +7,7 @@ Software Engineer
 I have been involved in game development using Unreal Engine and C++ for 2 years. Recently, I discovered my interest and passion for Backend Development and distributed systems, which has led me to decide on a career change in this field.
 
 * 🌍  I'm based in Istanbul
-* ✉️  You can contact me at [h.canalhas@gmail.com](mailto:h.canalhas@gmail.com)
+* ✉️  You can contact me at [h.canalhas@gmail.com](mailto:h.canalhas@gmail.com)sdsadsadas
 * 🧠  I'm learning Go and Distributed Systems.
 
 ### Skills
@@ -16,7 +16,11 @@ I have been involved in game development using Unreal Engine and C++ for 2 years
 [![My Skills](https://skillicons.dev/icons?i=cpp,unrealengine,golang,java,c,python,tensorflow,pytorch,git,linux,blender)](https://skillicons.dev)
 
 
-### Socials
+### Contact Me
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/can-alhas/)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/gryfon)
+
+
 
 ### Status
 
