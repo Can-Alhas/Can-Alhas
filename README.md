@@ -22,7 +22,8 @@ I have been involved in game development using Unreal Engine and C++ for 2 years
 
 
 
-### Status
+### Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Can-Alhas&hide=swift&langs_count=8&layout=pie)
 
 
 </div>
