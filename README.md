@@ -45,19 +45,8 @@
   <a href="https://ghidra-sre.org/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/f/f6/Ghidra_logo.svg" alt="Ghidra" width="42" height="42" />
   </a>
-</p>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Game%20Development-0E7490?style=for-the-badge& logo=godotengine&logoColor=white" alt="Game Development" />
-  <img src="https://img.shields.io/badge/Engine%20Programming-111827?style=for-the-badge&logo=gamedeveloper&logoColor=white" alt="Engine Programming" />
- 
- 
-  <img src="https://img.shields.io/badge/Linux-1F2937?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
-  <img src="https://img.shields.io/badge/Reverse%20Engineering-8A2BE2?style=for-the-badge&logoColor=white" alt="Reverse Engineering" />
-</p>
-
-
-### Contribution Galaga
+### Contributions
 
 <p align="center">
   <img
