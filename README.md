@@ -1,4 +1,3 @@
-<h1 align="center">Hi, I'm Can Alhas</h1>
 <p align="center">
   I'm interested in
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2400&pause=700&color=58A6FF&center=false&vCenter=true&width=420&height=24&lines=Game+Development;Game+Engine+Architecture;Graphics+Programming;Rendering;Systems+Programming;Reverse+Engineering;Emulators" alt="typing animation" />
@@ -67,16 +66,16 @@
   />
 </p>
 
-
-### Hobby projects
-
-I'm currently working on my own game and building a hobby game engine:
-[-->>grimar-engine](https://github.com/Can-Alhas/grimar-engine)
-
-
 ### Languages and consistency
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Can-Alhas&show_icons=true&locale=en&layout=donut&theme=github_dark&hide_border=true&langs_count=8&card_width=620" alt="Top languages" height="300" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Can-Alhas&theme=github-dark-blue&hide_border=true&hide_total_contributions=true&card_width=410" alt="GitHub streak" height="180" />
 </p>
+
+### Hobby projects
+
+I'm currently working on my own game and building a hobby game engine:
+[-->>grimar-engine](https://github.com/Can-Alhas/grimar-engine)
+
+---
