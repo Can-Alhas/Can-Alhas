@@ -51,7 +51,7 @@
 <p align="center">
   <img
     alt="galaga contribution graph"
-    src="https://raw.githubusercontent.com/Can-Alhas/Can-Alhas/output/galaga-contribution-graph.svg"
+    src="https://raw.githubusercontent.com/Can-Alhas/Can-Alhas/output/galaga-contribution-graph.svg?v=2"
   />
 </p>
 
