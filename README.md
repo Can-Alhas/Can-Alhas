@@ -1,5 +1,4 @@
 <h1 align="center">Hi, I'm Can Alhas</h1>
-<h3 align="center">Game Engine, Gameplay, and Systems Programming</h3>
 <p align="center">
   I'm interested in
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2400&pause=700&color=58A6FF&center=false&vCenter=true&width=420&height=24&lines=Game+Development;Game+Engine+Architecture;Graphics+Programming;Rendering;Systems+Programming;Reverse+Engineering;Emulators" alt="typing animation" />
@@ -13,7 +12,6 @@
 - Also interested in **reverse engineering**, **emulators**, **graphics APIs**, and how software works under the hood.
 - Reach me at **h.canalhas@gmail.com**.
 
----
 
 ### Tech stack
 
@@ -51,15 +49,15 @@
 </p>
 
 <p align="left">
+  <img src="https://img.shields.io/badge/Game%20Development-0E7490?style=for-the-badge& logo=godotengine&logoColor=white" alt="Game Development" />
   <img src="https://img.shields.io/badge/Engine%20Programming-111827?style=for-the-badge&logo=gamedeveloper&logoColor=white" alt="Engine Programming" />
-  <img src="https://img.shields.io/badge/Game%20Development-0E7490?style=for-the-badge&logo=godotengine&logoColor=white" alt="Game Development" />
-  <img src="https://img.shields.io/badge/Graphics%20Programming-5586A4?style=for-the-badge&logo=opengl&logoColor=white" alt="Graphics Programming" />
-  <img src="https://img.shields.io/badge/Systems%20Programming-0F172A?style=for-the-badge&logo=linux&logoColor=white" alt="Systems Programming" />
+ 
+ 
   <img src="https://img.shields.io/badge/Linux-1F2937?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
   <img src="https://img.shields.io/badge/Reverse%20Engineering-8A2BE2?style=for-the-badge&logoColor=white" alt="Reverse Engineering" />
 </p>
 
----
+
 ### Contribution Galaga
 
 <p align="center">
