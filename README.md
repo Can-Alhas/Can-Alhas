@@ -1,6 +1,9 @@
 <p align="center">
   I'm interested in
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2400&pause=700&color=58A6FF&center=false&vCenter=true&width=420&height=24&lines=Game+Development;Game+Engine+Architecture;Graphics+Programming;Rendering;Systems+Programming;Reverse+Engineering;Emulators" alt="typing animation" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2400&pause=700&color=58A6FF&center=false&vCenter=true&width=420&height=24&lines=Game+Development;Game+Engine+Architecture;Graphics+Programming;Rendering;Systems+Programming;Reverse+Engineering;Emulators"
+    alt="typing animation"
+  />
 </p>
 
 
@@ -16,35 +19,96 @@
 
 <p align="left">
   <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="42" height="42" />
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
+      alt="C++"
+      width="42"
+      height="42"
+    />
   </a>
+
   <a href="https://www.unrealengine.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unrealengine/unrealengine-original.svg" alt="Unreal Engine" width="42" height="42" />
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unrealengine/unrealengine-original.svg"
+      alt="Unreal Engine"
+      width="42"
+      height="42"
+    />
   </a>
+
   <a href="https://godotengine.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/godot/godot-original.svg" alt="Godot" width="42" height="42" />
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/godot/godot-original.svg"
+      alt="Godot"
+      width="42"
+      height="42"
+    />
   </a>
+
   <a href="https://www.opengl.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opengl/opengl-original.svg" alt="OpenGL" width="42" height="42" />
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opengl/opengl-original.svg"
+      alt="OpenGL"
+      width="42"
+      height="42"
+    />
   </a>
+
   <a href="https://www.qt.io/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/qt/qt-original.svg" alt="Qt" width="42" height="42" />
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/qt/qt-original.svg"
+      alt="Qt"
+      width="42"
+      height="42"
+    />
   </a>
+
   <a href="https://www.wxwidgets.org/" target="_blank" rel="noreferrer">
-    <img src="https://wxwidgets.org/downloads/logos/blocks.svg" alt="wxWidgets" width="42" height="42" />
+    <img
+      src="https://wxwidgets.org/downloads/logos/blocks.svg"
+      alt="wxWidgets"
+      width="42"
+      height="42"
+    />
   </a>
+
   <a href="https://go.dev/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="42" height="42" />
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"
+      alt="Go"
+      width="42"
+      height="42"
+    />
   </a>
+
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="42" height="42" />
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
+      alt="Linux"
+      width="42"
+      height="42"
+    />
   </a>
+
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="42" height="42" />
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"
+      alt="Docker"
+      width="42"
+      height="42"
+    />
   </a>
+
   <a href="https://ghidra-sre.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/f/f6/Ghidra_logo.svg" alt="Ghidra" width="42" height="42" />
+    <img
+      src="https://upload.wikimedia.org/wikipedia/commons/f/f6/Ghidra_logo.svg"
+      alt="Ghidra"
+      width="42"
+      height="42"
+    />
   </a>
+</p>
+
 
 ### Contributions
 
@@ -55,6 +119,7 @@
   />
 </p>
 
+
 ### Languages and consistency
 
 <p align="center">
@@ -63,15 +128,19 @@
     alt="Top languages"
     height="180"
   />
+
   <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=Can-Alhas&theme=github-dark-blue&hide_border=true"
     alt="GitHub streak"
     height="180"
   />
 </p>
+
+
 ### Hobby projects
 
 I'm currently working on my own game and building a hobby game engine:
-[-->>grimar-engine](https://github.com/Can-Alhas/grimar-engine)
+
+[-->> grimar-engine](https://github.com/Can-Alhas/grimar-engine)
 
 ---
