@@ -58,10 +58,17 @@
 ### Languages and consistency
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Can-Alhas&show_icons=true&locale=en&layout=donut&theme=github_dark&hide_border=true&langs_count=8&card_width=620" alt="Top languages" height="300" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Can-Alhas&theme=github-dark-blue&hide_border=true&hide_total_contributions=true&card_width=410" alt="GitHub streak" height="180" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Can-Alhas&layout=compact&theme=github_dark&hide_border=true&langs_count=8"
+    alt="Top languages"
+    height="180"
+  />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Can-Alhas&theme=github-dark-blue&hide_border=true"
+    alt="GitHub streak"
+    height="180"
+  />
 </p>
-
 ### Hobby projects
 
 I'm currently working on my own game and building a hobby game engine:
