@@ -122,17 +122,12 @@
 
 ### Languages and consistency
 
+### Languages
+
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Can-Alhas&layout=compact&theme=github_dark&hide_border=true&langs_count=8"
+    src="./profile/top-langs.svg"
     alt="Top languages"
-    height="180"
-  />
-
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Can-Alhas&theme=github-dark-blue&hide_border=true"
-    alt="GitHub streak"
-    height="180"
   />
 </p>
 
