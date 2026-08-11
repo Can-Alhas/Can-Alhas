@@ -120,8 +120,6 @@
 </p>
 
 
-### Languages and consistency
-
 ### Languages
 
 <p align="center">
